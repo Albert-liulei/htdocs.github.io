@@ -3,11 +3,11 @@
   <title>htdocs</title>
   
   
-  <link href="https://albert-liulei.github.io/htdocs/atom.xml" rel="self"/>
+  <link href="https://htdocs.github.io/atom.xml" rel="self"/>
   
-  <link href="https://albert-liulei.github.io/htdocs/"/>
+  <link href="https://htdocs.github.io/"/>
   <updated>2024-08-21T08:22:35.443Z</updated>
-  <id>https://albert-liulei.github.io/htdocs/</id>
+  <id>https://htdocs.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://albert-liulei.github.io/htdocs/2024/08/21/hello-world/"/>
-    <id>https://albert-liulei.github.io/htdocs/2024/08/21/hello-world/</id>
+    <link href="https://htdocs.github.io/2024/08/21/hello-world/"/>
+    <id>https://htdocs.github.io/2024/08/21/hello-world/</id>
     <published>2024-08-21T08:22:35.443Z</published>
     <updated>2024-08-21T08:22:35.443Z</updated>
     

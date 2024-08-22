@@ -1,2 +1,2 @@
-https://albert-liulei.github.io/htdocs/2024/08/21/hello-world/
-https://albert-liulei.github.io/htdocs
+https://htdocs.github.io/2024/08/21/hello-world/
+https://htdocs.github.io/
